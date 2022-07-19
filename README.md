@@ -11,7 +11,7 @@
 [[Dataset]](https://github.com/I-SUBIN/KBO_Income_Prediction/blob/master/data/foreigner_1982_2020.csv)
 
 ### - 수입 데이터 크롤링[[CODE]](https://github.com/I-SUBIN/KBO_Income_Prediction/blob/master/code/Income_Crawling.ipynb)
-[[Dataset]]
+[[Dataset]](https://github.com/I-SUBIN/KBO_Income_Prediction/blob/master/data/income.csv)
 
 ### - 전처리 및 모델링[[CODE]](https://github.com/I-SUBIN/KBO_Income_Prediction/blob/master/code/Income_Prediction.ipynb)
 

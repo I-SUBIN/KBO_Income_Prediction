@@ -5,10 +5,10 @@
 
 
 ### - 선수 기본 데이터 크롤링[[CODE]](https://github.com/I-SUBIN/KBO_Income_Prediction/blob/master/code/Statiz_All_Season_Crawling.ipynb)
-[[Dataset]]()
+[[Dataset]](https://github.com/I-SUBIN/KBO_Income_Prediction/blob/master/data/data_1982_2020.csv)
 
 ### - 외국인 선수 이름 크롤링[[CODE]](https://github.com/I-SUBIN/KBO_Income_Prediction/blob/master/code/Foreigner_Crawling.ipynb)
-[[Dataset]]
+[[Dataset]]()
 
 ### - 수입 데이터 크롤링[[CODE]](https://github.com/I-SUBIN/KBO_Income_Prediction/blob/master/code/Income_Crawling.ipynb)
 [[Dataset]]
